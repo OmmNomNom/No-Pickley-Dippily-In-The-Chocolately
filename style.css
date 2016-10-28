@@ -1,11 +1,11 @@
 
 body{
 	padding: 300px;
-	color: FFA500;
-	background-color: FFFF00;
+	color: #FFA500;
+	background-color: #FFFF00;
 }
 a {
-	color: 	FFFF00;
+	color: 	#FFFF00;
 	text-decoration: none;
 }
 h2 {
@@ -13,10 +13,10 @@ h2 {
 	font-weight: bold;
 }
 body:hover {
-	color: FFA500;
+	color: #FFA500;
 }
 a:hover {
-	color: FFA500;
+	color: #FFA500;
 }
 a{
 	padding: 500px
