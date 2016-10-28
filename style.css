@@ -1,7 +1,7 @@
 
 body{
 	padding: 300px;
-	color: #FFA500;
+	color: #BEFF02;
 	background-color: #FFFF00;
 }
 a {
@@ -13,10 +13,10 @@ h2 {
 	font-weight: bold;
 }
 body:hover {
-	color: #FFA500;
+	color: #BEFF02;
 }
 a:hover {
-	color: #FFA500;
+	color: #BEFF02;
 }
 a{
 	padding: 500px
