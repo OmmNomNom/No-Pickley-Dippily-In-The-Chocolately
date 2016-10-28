@@ -1,3 +1,23 @@
+
 body{
-	color: green;
+	padding: 300px;
+	color: #000000;
+	background-color: #000000;
+}
+a {
+	color: #0e1717;
+	text-decoration: none;
+}
+h2 {
+	font-size: 86px;
+	font-weight: bold;
+}
+body:hover {
+	color: #ffffff;
+}
+a:hover {
+	color: #ffffff;
+}
+a{
+	padding: 500px
 }
